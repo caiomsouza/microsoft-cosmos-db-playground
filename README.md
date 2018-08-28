@@ -1,4 +1,4 @@
 # Microsoft Cosmos DB Playground
 
-Microsoft Labs
-https://cosmosdb.github.io/labs/
+Microsoft Labs <BR>
+https://cosmosdb.github.io/labs/ <BR>
