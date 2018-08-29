@@ -4,7 +4,7 @@
 https://cosmosdb.github.io/labs/ <BR>
 https://github.com/CosmosDB/labs <BR>
 
-# Azure Cosmos DB Python examples
+Azure Cosmos DB Python examples <BR>
 https://docs.microsoft.com/en-gb/azure/cosmos-db/sql-api-python-samples <BR>
 https://github.com/Azure/azure-documentdb-python <BR>
 https://github.com/CosmosDB <BR>
