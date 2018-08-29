@@ -3,6 +3,7 @@
 # Microsoft Labs <BR>
 https://cosmosdb.github.io/labs/ <BR>
 https://github.com/CosmosDB/labs <BR>
+https://www.linkedin.com/in/aliuy/ <BR>	
 
 Cosmos DB - Query Playground<BR>
 https://www.documentdb.com/sql/demo
@@ -56,7 +57,12 @@ Cosmos DB Customers<BR>
 
 
 
+Walmart Cosmos DB - Use Case From startups to big-business: Using functional programming techniques to transform line of<BR>
+https://www.youtube.com/watch?v=dSCzCaiWgLM <BR>	
 
+Where to Store Your Data in Azure? Understand Azure Data Storage Options <BR>
+https://stackify.com/store-data-azure-understand-azure-data-storage-options/ <BR>
+	
 			
 # Partition - Consistent hashing
 https://en.wikipedia.org/wiki/Consistent_hashing<BR>
@@ -96,7 +102,12 @@ https://dzone.com/articles/azure-cosmos-db-costs-vs-dynamo-db-and-neptune <BR>
 
 
 # Azure Databricks + Cosmos DB
-https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/spark-connector.md
+https://github.com/Azure/azure-cosmosdb-spark
+https://docs.databricks.com/spark/latest/data-sources/azure/cosmosdb-connector.html#use-the-azure-cosmos-db-spark-connector <BR>
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/spark-connector.md <BR>
+
+Accelerate big data analytics by using the Apache Spark to Azure Cosmos DB connector <BR>
+https://docs.microsoft.com/en-us/azure/cosmos-db/spark-connector <BR>
 
 Structured streaming with Azure Databricks into Power BI & Cosmos DB <BR>
 http://www.mnazureusergroup.com/2018/06/25/structured-streaming-with-azure-databricks-into-power-bi-cosmos-db/ <BR>
@@ -104,10 +115,21 @@ http://www.mnazureusergroup.com/2018/06/25/structured-streaming-with-azure-datab
 Streaming Live Tweets from Twitter to CosmosDB <BR>
 http://sajeetharan.blogspot.com/2018/05/streaming-live-tweets-from-twitter-to.html <BR>
 https://github.com/sajeetharan/CosmosdbTweetsStream <BR>
-
-
 	
+Structured streaming with Azure Databricks into Power BI & Cosmos DB<BR>
+https://azure.microsoft.com/en-us/blog/structured-streaming-with-databricks-into-power-bi-cosmos-db/ <BR>
 
+Choosing a big data storage technology in Azure <BR>
+https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-storage <BR>
+
+
+More links: <BR>
+https://www.jamesserra.com/ <BR>
+https://www.slideshare.net/jamserra/introduction-to-azure-databricks-83448539 <BR>
+https://www.slideshare.net/jamserra/power-bi-for-big-data-and-the-new-look-of-big-data-solutions <BR>
+https://www.jamesserra.com/archive/2017/10/use-cases-of-various-products/ <BR>
+	
+	
 
 
 
