@@ -14,7 +14,7 @@ Price <BR>
 Request Units (RU) = % Memory, % CPU, % IOPS = RU is a rate-based currency.<BR>
 1 RU = 1 read of 1 KB record<BR>
 
-Pricing Example<BR>
+Pricing Example
 - Storage cost
 - Throughput
 
