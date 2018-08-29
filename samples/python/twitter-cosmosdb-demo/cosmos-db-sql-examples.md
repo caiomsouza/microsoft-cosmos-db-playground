@@ -38,3 +38,17 @@ where tweets.user.followers_count BETWEEN 100000 AND 900000
 
 
 ```
+
+A few CosmosDB query limitations <BR>
+https://vincentlauzon.com/2017/11/06/a-few-cosmosdb-query-limitations/ <BR>
+  
+Aggregations Examples <BR>
+https://github.com/Azure/azure-cosmosdb-spark/wiki/Aggregations-Examples <BR>
+  
+  
+  
+  
+
+
+  
+
