@@ -105,6 +105,7 @@ https://dzone.com/articles/azure-cosmos-db-costs-vs-dynamo-db-and-neptune <BR>
 https://github.com/Azure/azure-cosmosdb-spark
 https://docs.databricks.com/spark/latest/data-sources/azure/cosmosdb-connector.html#use-the-azure-cosmos-db-spark-connector <BR>
 https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/spark-connector.md <BR>
+https://github.com/Azure/azure-cosmosdb-spark/tree/2.3/samples/notebooks <BR>
 
 Accelerate big data analytics by using the Apache Spark to Azure Cosmos DB connector <BR>
 https://docs.microsoft.com/en-us/azure/cosmos-db/spark-connector <BR>
@@ -122,7 +123,8 @@ https://azure.microsoft.com/en-us/blog/structured-streaming-with-databricks-into
 Choosing a big data storage technology in Azure <BR>
 https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-storage <BR>
 
-
+Configuring Power BI Direct Query to Azure Cosmos DB via Apache Spark (HDI)<BR>
+https://github.com/Azure/azure-cosmosdb-spark/wiki/Configuring-Power-BI-Direct-Query-to-Azure-Cosmos-DB-via-Apache-Spark-(HDI) <BR>	
 More links: <BR>
 https://www.jamesserra.com/ <BR>
 https://www.slideshare.net/jamserra/introduction-to-azure-databricks-83448539 <BR>
