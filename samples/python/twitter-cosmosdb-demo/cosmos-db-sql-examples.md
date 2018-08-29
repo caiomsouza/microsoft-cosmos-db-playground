@@ -1,9 +1,17 @@
 
 
+# Queries limitations
 Cosmos DB does not support delete. <BR>
 Workaround is to use Azure Databricks <BR>
 https://github.com/Azure/azure-cosmosdb-spark <BR>
 https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/spark-connector.md <BR>
+  
+  
+Cosmos DB - Query Playground<BR>
+https://www.documentdb.com/sql/demo <BR>  
+
+
+# Tweets Queries 
 
 ```
 
