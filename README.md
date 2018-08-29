@@ -103,6 +103,7 @@ https://dzone.com/articles/azure-cosmos-db-costs-vs-dynamo-db-and-neptune <BR>
 
 # Azure Databricks + Cosmos DB
 https://github.com/Azure/azure-cosmosdb-spark
+https://docs.azuredatabricks.net/spark/latest/data-sources/azure/cosmosdb-connector.html
 https://docs.databricks.com/spark/latest/data-sources/azure/cosmosdb-connector.html#use-the-azure-cosmos-db-spark-connector <BR>
 https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/spark-connector.md <BR>
 https://github.com/Azure/azure-cosmosdb-spark/tree/2.3/samples/notebooks <BR>
@@ -124,12 +125,25 @@ Choosing a big data storage technology in Azure <BR>
 https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-storage <BR>
 
 Configuring Power BI Direct Query to Azure Cosmos DB via Apache Spark (HDI)<BR>
-https://github.com/Azure/azure-cosmosdb-spark/wiki/Configuring-Power-BI-Direct-Query-to-Azure-Cosmos-DB-via-Apache-Spark-(HDI) <BR>	
+https://github.com/Azure/azure-cosmosdb-spark/wiki/Configuring-Power-BI-Direct-Query-to-Azure-Cosmos-DB-via-Apache-Spark-(HDI) <BR><BR>
+
+Lambda Architecture with Azure Cosmos DB and HDInsight (Apache Spark) <BR>
+https://github.com/Azure/azure-cosmosdb-spark/blob/master/samples/lambda/readme.md <BR>
+
+On-Time Flight Performance with Spark and Cosmos DB (Seattle) <BR>
+https://github.com/Azure/azure-cosmosdb-spark/blob/master/samples/notebooks/On-Time%20Flight%20Performance%20with%20Spark%20and%20Cosmos%20DB%20-%20Seattle.ipynb <BR>	
+
+Twitter Source with Apache Spark and Azure Cosmos DB Change Feed <BR>
+https://github.com/Azure/azure-cosmosdb-spark/blob/master/samples/notebooks/Twitter%20with%20Spark%20and%20Azure%20Cosmos%20DB%20Change%20Feed.ipynb <BR>	
+	
 More links: <BR>
 https://www.jamesserra.com/ <BR>
+https://www.linkedin.com/in/jamesserra/ <BR>	
 https://www.slideshare.net/jamserra/introduction-to-azure-databricks-83448539 <BR>
 https://www.slideshare.net/jamserra/power-bi-for-big-data-and-the-new-look-of-big-data-solutions <BR>
 https://www.jamesserra.com/archive/2017/10/use-cases-of-various-products/ <BR>
+https://www.jamesserra.com/archive/2018/06/understanding-cosmos-db/ <BR>
+	
 	
 	
 
