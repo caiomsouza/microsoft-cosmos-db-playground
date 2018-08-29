@@ -22,6 +22,37 @@ Big = $ 100.000 / month<BR>
 Medium =  Range from $ 1000 to $ 3000 / month<BR>
 
 
+SQL is the native API (Microsoft).<BR>
+
+Types:
+- Key-value = Table API
+- Cassandra = Column-family 
+- MongoDB = Document 
+- Gremlin = Graph 
+
+Cosmos DB Customers<BR>
+- Domino's Pizza  = Global Distributed Apps
+	-Single online website to order pizza for all restaurants 
+	
+- IoT (Internet of Things) - Telemetry & Sensor Data = Toyota, Honeywell, LG CNS, Johnson Controls
+		○ Business  Needs:
+			§ High scalability to ingest large # of events coming from many devices
+			§ Low latency queries and changes feeds for responding quickly to anomalies 
+			§ Schema-agnostic storage and automatic indexing to support dynamic data coming from many different generations of devices 
+			§ High availability across multiple data centers 
+		○ Real-time Recommendations 
+			§ Use Azure Databricks + Cosmos DB + Azure Container Services (Recommendations API)
+				□ Online Recommendations Service
+				□ Order Transactions 
+		○ Customer 360 - Operational Analytics = Real Madrid 
+			§ Azure Databricks on top of Cosmos DB
+				□ Scale-out Computation = Azure Databricks 
+				□ Scale-out Database = Cosmos DB
+			§ Spark Connector using SQL API
+			Apache Spark on Databricks 
+
+
+
 
 Partition - Consistent hashing <BR>
 https://en.wikipedia.org/wiki/Consistent_hashing<BR>
