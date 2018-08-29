@@ -18,7 +18,7 @@ public class Program
  { 
 
      private static readonly Uri _endpointUri = new Uri("https://msldncosmosdblab.documents.azure.com:443/");
-     private static readonly string _primaryKey = "Svw8E5NsIABCMk5WZzytwGXzxxnH0yvQwx367hcLWdE3Y9q8CHDCBPdQO0SdA9F9vtWuqyWCLJRFNHqr7w0ysw==";
+     private static readonly string _primaryKey = "<YOUR_KEY>";
 
 
 
