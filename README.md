@@ -9,7 +9,21 @@ https://docs.microsoft.com/en-gb/azure/cosmos-db/sql-api-python-samples <BR>
 https://github.com/Azure/azure-documentdb-python <BR>
 https://github.com/CosmosDB <BR>
 
-Consistent hashing <BR>
+
+Price <BR>
+Request Units (RU) = % Memory, % CPU, % IOPS = RU is a rate-based currency.<BR>
+1 RU = 1 read of 1 KB record<BR>
+
+Pricing Example<BR>
+- Storage cost
+- Throughput
+
+Big = $ 100.000 / month<BR>
+Medium =  Range from $ 1000 to $ 3000 / month<BR>
+
+
+
+Partition - Consistent hashing <BR>
 https://en.wikipedia.org/wiki/Consistent_hashing<BR>
 
 The Simple Magic of Consistent Hashing <BR>
