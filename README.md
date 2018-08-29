@@ -4,6 +4,9 @@
 https://cosmosdb.github.io/labs/ <BR>
 https://github.com/CosmosDB/labs <BR>
 
+Cosmos DB - Query Playground<BR>
+https://www.documentdb.com/sql/demo
+
 Azure Cosmos DB Python examples <BR>
 https://docs.microsoft.com/en-gb/azure/cosmos-db/sql-api-python-samples <BR>
 https://github.com/Azure/azure-documentdb-python <BR>
@@ -90,6 +93,13 @@ https://db-engines.com/en/system/Amazon+DynamoDB%3BMicrosoft+Azure+Cosmos+DB%3BT
 
 Cost Comparison: Azure Cosmos DB vs. DynamoDB vs. Neptune <BR>
 https://dzone.com/articles/azure-cosmos-db-costs-vs-dynamo-db-and-neptune <BR>
+
+
+# Azure Databricks + Cosmos DB
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/spark-connector.md
+
+
+
 
 
 
