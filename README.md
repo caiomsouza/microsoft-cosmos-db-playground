@@ -98,6 +98,15 @@ https://dzone.com/articles/azure-cosmos-db-costs-vs-dynamo-db-and-neptune <BR>
 # Azure Databricks + Cosmos DB
 https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/spark-connector.md
 
+Structured streaming with Azure Databricks into Power BI & Cosmos DB <BR>
+http://www.mnazureusergroup.com/2018/06/25/structured-streaming-with-azure-databricks-into-power-bi-cosmos-db/ <BR>
+	
+Streaming Live Tweets from Twitter to CosmosDB <BR>
+http://sajeetharan.blogspot.com/2018/05/streaming-live-tweets-from-twitter-to.html <BR>
+https://github.com/sajeetharan/CosmosdbTweetsStream <BR>
+
+
+	
 
 
 
