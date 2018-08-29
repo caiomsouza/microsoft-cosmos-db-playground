@@ -13,4 +13,7 @@ FROM tweets
 SELECT VALUE COUNT(1) FROM tweets
 where tweets.user.followers_count = 129
 
+SELECT VALUE COUNT(1) FROM tweets
+where tweets.user.followers_count BETWEEN 100000 AND 900000
+
 ```
