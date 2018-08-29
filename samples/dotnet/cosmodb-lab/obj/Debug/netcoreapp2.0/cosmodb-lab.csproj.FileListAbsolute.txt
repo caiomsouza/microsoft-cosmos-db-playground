@@ -1,0 +1,11 @@
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\bin\Debug\netcoreapp2.0\cosmodb-lab.deps.json
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\bin\Debug\netcoreapp2.0\cosmodb-lab.runtimeconfig.json
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\bin\Debug\netcoreapp2.0\cosmodb-lab.runtimeconfig.dev.json
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\bin\Debug\netcoreapp2.0\cosmodb-lab.dll
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\bin\Debug\netcoreapp2.0\cosmodb-lab.pdb
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\obj\Debug\netcoreapp2.0\cosmodb-lab.csprojAssemblyReference.cache
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\obj\Debug\netcoreapp2.0\cosmodb-lab.csproj.CoreCompileInputs.cache
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\obj\Debug\netcoreapp2.0\cosmodb-lab.AssemblyInfoInputs.cache
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\obj\Debug\netcoreapp2.0\cosmodb-lab.AssemblyInfo.cs
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\obj\Debug\netcoreapp2.0\cosmodb-lab.dll
+C:\Users\caio.f.moreno\Desktop\MS CosmosDB Training\CosmoDB-Lab\cosmodb-lab\obj\Debug\netcoreapp2.0\cosmodb-lab.pdb
