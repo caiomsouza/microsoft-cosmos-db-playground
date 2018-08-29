@@ -54,7 +54,8 @@ Cosmos DB Customers<BR>
 
 
 
-Partition - Consistent hashing <BR>
+			
+# Partition - Consistent hashing
 https://en.wikipedia.org/wiki/Consistent_hashing<BR>
 
 The Simple Magic of Consistent Hashing <BR>
@@ -77,3 +78,20 @@ https://scholar.google.com/citations?user=2vQRGrYAAAAJ<BR>
 Consistent Hashing in Cassandra <BR>
 https://blog.imaginea.com/consistent-hashing-in-cassandra/<BR>
 https://docs.datastax.com/en/cassandra/3.0/cassandra/architecture/archDataDistributeHashing.html<BR>
+
+# Indexing
+
+How does Azure Cosmos DB index data? <BR>
+https://docs.microsoft.com/en-us/azure/cosmos-db/indexing-policies <BR>
+
+
+System Properties Comparison Amazon DynamoDB vs. Microsoft Azure Cosmos DB vs. Titan<BR>
+https://db-engines.com/en/system/Amazon+DynamoDB%3BMicrosoft+Azure+Cosmos+DB%3BTitan
+
+Cost Comparison: Azure Cosmos DB vs. DynamoDB vs. Neptune <BR>
+https://dzone.com/articles/azure-cosmos-db-costs-vs-dynamo-db-and-neptune <BR>
+
+
+
+
+
