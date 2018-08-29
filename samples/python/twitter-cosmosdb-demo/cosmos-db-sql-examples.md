@@ -1,5 +1,10 @@
 
 
+Cosmos DB does not support delete. <BR>
+Workaround is to use Azure Databricks <BR>
+https://github.com/Azure/azure-cosmosdb-spark <BR>
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/cosmos-db/spark-connector.md <BR>
+
 ```
 
 SELECT VALUE COUNT(1) FROM tweets
