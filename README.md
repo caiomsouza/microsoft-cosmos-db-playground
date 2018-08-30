@@ -140,10 +140,10 @@ Cosmos DB + R <BR>
 https://github.com/aaron2012r2/cosmosR <BR>
 https://www.erikhoward.net/azure-cosmos-db-tutorial-using-r/ <BR>
 
-Replicate data globally <BR>
+# Replicate data globally 
 Easy to add new regions and enable automatic failover <BR>
 
-More links: <BR>
+# More links:
 https://www.jamesserra.com/ <BR>
 https://www.linkedin.com/in/jamesserra/ <BR>	
 https://www.slideshare.net/jamserra/introduction-to-azure-databricks-83448539 <BR>
