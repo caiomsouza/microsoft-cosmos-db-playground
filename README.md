@@ -135,7 +135,12 @@ https://github.com/Azure/azure-cosmosdb-spark/blob/master/samples/notebooks/On-T
 
 Twitter Source with Apache Spark and Azure Cosmos DB Change Feed <BR>
 https://github.com/Azure/azure-cosmosdb-spark/blob/master/samples/notebooks/Twitter%20with%20Spark%20and%20Azure%20Cosmos%20DB%20Change%20Feed.ipynb <BR>	
-	
+
+Cosmos DB + R
+https://github.com/aaron2012r2/cosmosR <BR>
+https://www.erikhoward.net/azure-cosmos-db-tutorial-using-r/ <BR>
+
+
 More links: <BR>
 https://www.jamesserra.com/ <BR>
 https://www.linkedin.com/in/jamesserra/ <BR>	
